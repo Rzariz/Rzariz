@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rzariz
 - 👀 I’m interested in coding and reading
-- 🌱 I’m currently learning javaScript and React NAtive framework
+- 🌱 I’m currently learning javaScript and React Native framework
 - 📫 How to reach me ... @rzariz
 
 <!---
